@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="title_followers">Followers</string>
+    <string name="title_following">Following</string>
+</resources>
